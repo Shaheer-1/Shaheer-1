@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shaheer-1
+- 👋 Hi, I’m Shaheer Junaid
 - 👀 I’m interested in code
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 shaheerjunaid@outlook.com
+- 📫 shaheerjunaid@outlook.com | shaheer.junaid@yahoo.com
 
 <!---
 Shaheer-1/Shaheer-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
